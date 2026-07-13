@@ -11,10 +11,6 @@ import {
   SiTypescript,
   SiSpringboot,
 } from "react-icons/si";
-import {
-  SiTypescript,
-  SiSpringboot,
-} from "react-icons/si";
 
 import HeroBackground from "./HeroBackground";
 import SocialLinks from "./SocialLinks";
